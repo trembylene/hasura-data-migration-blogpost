@@ -397,7 +397,7 @@ As long as you do not remove the affiliated docker volumes, you will not lose an
 
 # Section 4. Start over with a clean local Hasura environment.
 
-Need to delete your local Hasura environment and start again with a clean slate? Or just want to update your local Hasura environment with your latest Hasura production clone? Cleaning up your current local Hasura environment is just as simple as creating one.
+Need to delete your local Hasura environment and start again with a no data in the database? Or just want to update your local Hasura environment with your latest Hasura production clone? Cleaning up your current local Hasura environment is just as simple as creating one.
 
 ### Step 17. Move into your local Hasura directory.
 
