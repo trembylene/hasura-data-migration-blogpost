@@ -443,7 +443,7 @@ The command `docker volume rm` will permanently remove specified docker volumes.
     
     docker volume rm local-hasura-setup_db_data
 
-### All done! Now you have a clean slate to work with.
+### All done! Now you have a clean database to work with.
 
 You have now shut down your existing local Hasura docker containers and removed all affiliated docker volumes. You will now be able to create a local Hasura setup environment again, knowing that your local environment has been cleaned of its previous schema, relationship mappings, and data, completely reset to a fresh state for you to work with.
 
